@@ -1,0 +1,36 @@
+{
+  "name": "inventrybev",
+  "version": "1.0.0",
+  "description": "sample inventry for job purposes",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "mongoose": "4.12.4",
+    "nodemon": "^1.17.2"
+  },
+  "devDependencies": {
+    "cors": "2.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myneni-siddhartha/inventrybevv.git"
+  },
+  "keywords": [
+    "inventry",
+    "order",
+    "beverage",
+    "online",
+    "automate",
+    "exciting"
+  ],
+  "author": "myneni siddhartha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myneni-siddhartha/inventrybevv/issues"
+  },
+  "homepage": "https://github.com/myneni-siddhartha/inventrybevv#readme"
+}
